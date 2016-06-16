@@ -1,0 +1,2 @@
+# hibernate_one2one_uni_fk_composite
+一对一单向外键组件（外键是多个字段作为联合主键）
